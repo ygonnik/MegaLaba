@@ -1,0 +1,8 @@
+C:\Users\ygonnik\source\repos\MegaLaba\ComObjects\bin\Debug\ComObjects.dll
+C:\Users\ygonnik\source\repos\MegaLaba\ComObjects\bin\Debug\ComObjects.pdb
+C:\Users\ygonnik\source\repos\MegaLaba\ComObjects\bin\Debug\ComObjects.tlb
+C:\Users\ygonnik\source\repos\MegaLaba\ComObjects\obj\Debug\ComObjects.csproj.CoreCompileInputs.cache
+C:\Users\ygonnik\source\repos\MegaLaba\ComObjects\obj\Debug\ComObjects.dll
+C:\Users\ygonnik\source\repos\MegaLaba\ComObjects\obj\Debug\ComObjects.pdb
+C:\Users\ygonnik\source\repos\MegaLaba\ComObjects\obj\Debug\ComObjects.csprojAssemblyReference.cache
+C:\Users\ygonnik\source\repos\MegaLaba\ComObjects\obj\Debug\ComObjects.csproj.ResolveComReference.cache
