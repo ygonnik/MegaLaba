@@ -1,0 +1,14 @@
+C:\Users\Denis\source\repos\MegaLaba\MegaLaba\bin\Debug\MegaLaba.exe.config
+C:\Users\Denis\source\repos\MegaLaba\MegaLaba\bin\Debug\MegaLaba.exe
+C:\Users\Denis\source\repos\MegaLaba\MegaLaba\bin\Debug\MegaLaba.pdb
+C:\Users\Denis\source\repos\MegaLaba\MegaLaba\obj\Debug\MegaLaba.csproj.CoreCompileInputs.cache
+C:\Users\Denis\source\repos\MegaLaba\MegaLaba\obj\Debug\MegaLaba.exe
+C:\Users\Denis\source\repos\MegaLaba\MegaLaba\obj\Debug\MegaLaba.pdb
+C:\Users\Denis\source\repos\MegaLaba\MegaLaba\obj\Debug\MegaLaba.csprojAssemblyReference.cache
+C:\Users\ygonnik\source\repos\MegaLaba\MegaLaba\bin\Debug\MegaLaba.exe.config
+C:\Users\ygonnik\source\repos\MegaLaba\MegaLaba\bin\Debug\MegaLaba.exe
+C:\Users\ygonnik\source\repos\MegaLaba\MegaLaba\bin\Debug\MegaLaba.pdb
+C:\Users\ygonnik\source\repos\MegaLaba\MegaLaba\obj\Debug\MegaLaba.csproj.CoreCompileInputs.cache
+C:\Users\ygonnik\source\repos\MegaLaba\MegaLaba\obj\Debug\MegaLaba.exe
+C:\Users\ygonnik\source\repos\MegaLaba\MegaLaba\obj\Debug\MegaLaba.pdb
+C:\Users\ygonnik\source\repos\MegaLaba\MegaLaba\obj\Debug\MegaLaba.csprojAssemblyReference.cache
